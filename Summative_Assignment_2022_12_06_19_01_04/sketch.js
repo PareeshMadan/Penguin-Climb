@@ -65,11 +65,11 @@ function setup() {
   //load canvas
   createCanvas(600, 600);
   //load images
-  img1 = loadImage("cloud.png");
-  img2 = loadImage("cloud.png");
-  img3 = loadImage("flag.png");
-  img4 = loadImage("eagle.png");
-  peng = loadImage("peng.png");
+  // img1 = loadImage("cloud.png");
+  // img2 = loadImage("cloud.png");
+  // img3 = loadImage("flag.png");
+  // img4 = loadImage("eagle.png");
+  peng = loadImage("/Users/pareeshmadan/Documents/Penguin-Climb/Summative_Assignment_2022_12_06_19_01_04/peng.png");
 }
 
 function draw() {
